@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ayushmovies/static/css/main.334bdeb1.css",
+    "main.js": "/ayushmovies/static/js/main.93631626.js",
+    "index.html": "/ayushmovies/index.html",
+    "static/media/search.svg": "/ayushmovies/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/ayushmovies/static/css/main.334bdeb1.css.map",
+    "main.93631626.js.map": "/ayushmovies/static/js/main.93631626.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.93631626.js"
+  ]
+}
